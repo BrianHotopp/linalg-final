@@ -1,0 +1,26 @@
+\begin{thebibliography}{}
+
+\bibitem[Bird et~al., 2009]{nltk}
+Bird, S., Klein, E., and Loper, E. (2009).
+\newblock {\em Natural language processing with Python: analyzing text with the
+  natural language toolkit}.
+\newblock " O'Reilly Media, Inc.".
+
+\bibitem[Francis and Kucera, 1979]{brown}
+Francis, W.~N. and Kucera, H. (1979).
+\newblock Brown corpus manual.
+\newblock Technical report, Department of Linguistics, Brown University,
+  Providence, Rhode Island, US.
+
+\bibitem[Mikolov et~al., 2013]{word2vec}
+Mikolov, T., Chen, K., Corrado, G., and Dean, J. (2013).
+\newblock Efficient estimation of word representations in vector space.
+
+\bibitem[{\v R}eh{\r u}{\v r}ek and Sojka, 2010]{gensim}
+{\v R}eh{\r u}{\v r}ek, R. and Sojka, P. (2010).
+\newblock {Software Framework for Topic Modelling with Large Corpora}.
+\newblock In {\em {Proceedings of the LREC 2010 Workshop on New Challenges for
+  NLP Frameworks}}, pages 45--50, Valletta, Malta. ELRA.
+\newblock \url{http://is.muni.cz/publication/884893/en}.
+
+\end{thebibliography}
